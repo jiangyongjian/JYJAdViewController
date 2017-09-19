@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>urlString</key>
+	<string>http://img.zcool.cn/community/01316b5854df84a8012060c8033d89.gif</string>
+	<key>isTimeOut</key>
+	<false/>
+	<key>adDetail</key>
+	<dict>
+		<key>title</key>
+		<string>@&quot;非常牛逼的电单车&quot;</string>
+		<key>urlString</key>
+		<string>https://www.baidu.com/</string>
+	</dict>
+</dict>
+</plist>
