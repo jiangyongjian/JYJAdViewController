@@ -1,5 +1,5 @@
 # JYJAdViewController
-一款不一样的侧滑菜单
+启动页广告
 
 # GIF
 ![JYJAdViewController](GIF/JYJAdViewController.gif "JYJAdViewController")
